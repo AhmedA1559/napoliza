@@ -1,0 +1,105 @@
+{
+  "menu": {
+    "pizza": {
+      "items": {
+        "Margherita": {
+          "name": "Margherita",
+          "price": {
+            "large": 35,
+            "medium": 30
+          }
+        },
+        "Mozzarella": {
+          "name": "Mozzarella",
+          "price": {
+            "large": 32,
+            "medium": 27
+          }
+        },
+        "Verdure": {
+          "name": "Verdure",
+          "price": {
+            "large": 36.5,
+            "medium": 33
+          }
+        },
+        "Mushroom": {
+          "name": "Mushroom",
+          "price": {
+            "large": 38.75,
+            "medium": 33.35
+          }
+        },
+        "Eggplant": {
+          "name": "Eggplant Parmigiana",
+          "price": {
+            "large": 38,
+            "medium": 34.5
+          }
+        },
+        "Potato": {
+          "name": "Potato",
+          "price": {
+            "large": 41,
+            "medium": 34.5
+          }
+        },
+        "Pepperoni": {
+          "name": "Pepperoni",
+          "price": {
+            "large": 37.5,
+            "medium": 33
+          }
+        },
+        "BBQ": {
+          "name": "Chicken BBQ",
+          "price": {
+            "large": 44,
+            "medium": 38.75
+          }
+        },
+        "Ranch": {
+          "name": "Chicken Ranch",
+          "price": {
+            "large": 47.5,
+            "medium": 40
+          }
+        }
+      },
+      "toppings": {
+        "Mozzarella": {
+          "name": "Extra Mozzarella",
+          "price": 3
+        },
+        "Chicken": {
+          "name": "Chicken",
+          "price": 0
+        },
+        "Olives": {
+          "name": "Olives",
+          "price": 2
+        },
+        "Buffalo": {
+          "name": "Buffalo",
+          "price": 0
+        },
+        "Potatoes Wedges": {
+          "name": "Potatoes Wedges",
+          "price": 0
+        },
+        "Jalapeno": {
+          "name": "Jalapeno",
+          "price": 2
+        },
+        "Onion": {
+          "name": "Onion",
+          "price": 0
+        },
+        "Pepper": {
+          "name": "Yellow Pepper",
+          "price": 0
+        }
+      }
+    }
+  }
+}
